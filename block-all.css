@@ -1,0 +1,31 @@
+:root {
+    /* Chatbox Gift Button */
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.content_a7d72e > main > form > div > div.channelTextArea_a7d72e.channelTextArea_bdf0de > div > div > div.buttons_bdf0de > button {
+        display: none;
+    }
+    /* Chatbox Xmas Gift Button */
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.content_a7d72e > main > form > div > div.channelTextArea_a7d72e.channelTextArea_bdf0de > div.scrollableContainer_bdf0de.themedBackground_bdf0de > div > div.buttons_bdf0de > div.container_fdeb78 {
+        display: none;
+    }
+
+    /* Chatbox App Button*/
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.chat_a7d72e > div.content_a7d72e > main > form > div > div.channelAppLauncher_df39bd {
+        display: none;
+    } 
+    /* Nitro tab */
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.sidebar_a4d4d9 > nav > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(3) {
+        display: none;
+    } 
+    /* Store tab */
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.sidebar_a4d4d9 > nav > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(5) > div {
+        display: none;
+    }
+    /* Discover Button */
+    #app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > nav > ul > div.itemsContainer_fea3ef > div.footer_d71945 {
+        display: none;
+    }
+    /* Image App Button Overlay */
+    [aria-label="Edit Image with Apps"] {
+        display: none;
+    }
+}
