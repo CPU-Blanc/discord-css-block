@@ -1,6 +1,6 @@
 :root {
     /* Chatbox Gift Button */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div.chat_f75fb0 > div.content_f75fb0 > main > form > div > div.channelTextArea_f75fb0.channelTextArea__74017 > div > div > div.buttons__74017 > button {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div.chat_f75fb0 > div.content_f75fb0 > main > form > div > div.channelTextArea_f75fb0.channelTextArea__74017 > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.container_c0c49a {
         display: none;
     }
 
