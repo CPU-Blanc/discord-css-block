@@ -10,7 +10,7 @@
     }
 
     /* Chatbox App Button - VC */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div.chat_f75fb0 > div.layerContainer_da8173 > div > div:nth-child(3) > div.chat_ee72fa > section > form > div > div.channelAppLauncher_e6e74f {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div:nth-child(2) > div > div.layerContainer_da8173 > div > div:nth-child(3) > div.chat_ee72fa > section > form > div > div.channelAppLauncher_e6e74f {
         display: none;
     }
 
