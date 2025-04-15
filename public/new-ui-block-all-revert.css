@@ -75,6 +75,18 @@
     width: auto !important;
     min-width: 100px !important;
 }
+
+/* Rounded icons */
+.icon__6e9f8, 
+.closedFolderIconWrapper__48112, 
+.folder__48112, 
+.expandedFolderIconWrapper__48112,
+.wrapper__6e9f8,
+.circleIconButton__5bc7e
+{
+	border-radius: 100% !important;
+	overflow: hidden !important;
+}
 /* ---- END OF REVERTS ---- */
 
 
