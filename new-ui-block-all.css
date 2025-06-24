@@ -1,18 +1,7 @@
 :root {
     /* ---- BLOCKS ---- */
-
-    /* DM Chatbox gift button */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.page_c48ade > div > div > div.content_f75fb0 > main > form > div > div > div > div > div.buttons__74017 > div.container_c0c49a {
-        display: none;
-    }
-
     /* DM Chatbox App Button*/
     #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.page_c48ade > div > div > div.content_f75fb0 > main > form > div > div > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.channelAppLauncher_e6e74f {
-        display: none;
-    }
-
-    /* Guild Chatbox gift button */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.page_c48ade > div > div > div.content_f75fb0 > main > form > div > div > div > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.container_c0c49a {
         display: none;
     }
 
@@ -33,6 +22,11 @@
 
     /* Image App Button Overlay */
     [aria-label="Edit Image with Apps"] {
+        display: none;
+    }
+
+    /* Guild and DM Nitro Gift buttons */
+    [aria-label="Send a gift"] {
         display: none;
     }
 }
