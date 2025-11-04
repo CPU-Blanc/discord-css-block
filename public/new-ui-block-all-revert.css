@@ -1,19 +1,8 @@
+@import url("https://mairiosipla.github.io/unshittify-discord/UnShittifySource.theme.css");
+@import url("https://mairiosipla.github.io/unshittify-discord/RoundIconsSource.theme.css");
+@import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
+
 /* ----REVERTS: Adapted slightly From https://github.com/MaiRiosIPla/unshittify-discord/tree/main ---- */
-.visual-refresh .panels_c48ade {
-    right: var(--space-xs) !important;
-    left: auto;
-    bottom: var(--space-xs);
-    width: calc(100% - var(--space-xs) * 2 - var(--custom-guild-list-width));
-}
-
-.visual-refresh .guilds_c48ade {
-    margin-bottom: 0;
-}
-.visual-refresh .base_c48ade {
-    grid-template-rows: [top] 0 [titleBarEnd] min-content [noticeEnd] 1fr [end];
-}
-
-/* Top bar (hidden) */
 .bar_c38106 {
     gap: 2px;
 
@@ -66,15 +55,6 @@
     margin-top: 1rem;
 }
 
-/* bad fix for search bar */
-.search__49676 * {
-    display: flex !important;
-    flex-shrink: 1 !important;
-}
-.searchBar__97492 {
-    width: auto !important;
-    min-width: 100px !important;
-}
 
 /* Rounded icons */
 .icon__6e9f8, 
