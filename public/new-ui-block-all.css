@@ -1,27 +1,27 @@
 :root {
     /* ---- BLOCKS ---- */
     /* DM Chatbox App Button*/
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.page_c48ade > div > div > div.content_f75fb0 > main > form > div > div > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.channelAppLauncher_e6e74f {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content__5e434 > div.page__5e434 > div > div > div.content_f75fb0 > main > form > div > div > div > div > div.buttons__74017 > div.channelAppLauncher_e6e74f {
         display: none;
     }
 
     /* Guild Chatbot App Button */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.page_c48ade > div > div > div.content_f75fb0 > main > form > div > div > div > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.channelAppLauncher_e6e74f {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content__5e434 > div.page__5e434 > div > div > div.content_f75fb0 > main > form > div > div > div > div.scrollableContainer__74017.themedBackground__74017 > div > div.buttons__74017 > div.channelAppLauncher_e6e74f {
         display: none;
     }
 
     /* Nitro tab */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.sidebar_c48ade.theme-dark.theme-darker.images-dark > div.sidebarList_c48ade.sidebarListRounded_c48ade > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > div:nth-child(4) {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content__5e434 > div.sidebar__5e434.theme-dark.theme-darker.images-dark > div.sidebarList__5e434.sidebarListRounded__5e434 > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > div:nth-child(4) {
         display: none;
     }
 
     /* Quests Tab */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.sidebar_c48ade.theme-dark.theme-darker.images-dark > div.sidebarList_c48ade.sidebarListRounded_c48ade > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > div.wrapper_ebee1d {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content__5e434 > div.sidebar__5e434.theme-dark.theme-darker.images-dark > div.sidebarList__5e434.sidebarListRounded__5e434 > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > div.wrapper_ebee1d {
         display: none;
     }
 
     /* Store tab */
-    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade > div.sidebar_c48ade.theme-dark.theme-darker.images-dark > div.sidebarList_c48ade.sidebarListRounded_c48ade > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > li:nth-child(5) {
+    #app-mount > div.appAsidePanelWrapper_a3002d > div > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content__5e434 > div.sidebar__5e434.theme-dark.theme-darker.images-dark > div.sidebarList__5e434.sidebarListRounded__5e434 > nav > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul > li:nth-child(5) {
         display: none;
     }
 
